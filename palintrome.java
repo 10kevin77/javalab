@@ -1,6 +1,6 @@
 /***************************************************************************************************
  * File          :   palintrome.java
- * Description   :   Find attendance percentage
+ * Description   :   find the palintrome of a string
  * Author        :   Kevin Biju Kulangara
  * Version       :   1.0
  * Date          :   03/10/2023
